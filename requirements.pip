@@ -1,0 +1,5 @@
+# This file collects all required third-party application
+# using pip. Example::
+#   pip install -r requirements.pip
+
+web.py>=0.37
