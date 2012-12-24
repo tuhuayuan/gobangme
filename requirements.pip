@@ -2,4 +2,9 @@
 # using pip. Example::
 #   pip install -r requirements.pip
 
-web.py>=0.37
+tornado
+break
+mako
+sqlalchemy
+wtform
+mysql-python
